@@ -45,7 +45,7 @@ JSON is an acronym for JavaScript Object Notation and is often used to send data
 
 - [Writing Methods in Express](./methodsInExpress.md)
 - [Path And Query Parameters](./PathAndQueryParameters.md)
-- [Using a route in Express](./routes.md)
-- [Parsing JSON](./ParsingJson.md)
+- [Using a router in Express](./router.md)
+- [Using JSON Body Data](./Body.md)
 - [Validating Inputs](./validation.md)
 - [Example app](./example.md)
