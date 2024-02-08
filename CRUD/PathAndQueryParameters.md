@@ -1,9 +1,10 @@
-# GET Request with Path and Query Params
+# Path and Query Parameters
 
-Sometimes when you make a GET request you need to send some data with the request to ensure you get the correct resource back.
+Sometimes when you make a request you need to send some data with the request to ensure you are targeting the correct resource.
+
 For example if you want information about a product on a retail site, then there must be a way for the server to know what product you are interested in. Often this would be a product number or a product id.
 
-There are two main ways in which you can send data with a GET Request.
+There are two main ways in which you can send data with a request.
 
 ## Path Parameters
 
