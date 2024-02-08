@@ -23,4 +23,5 @@ REST API's have a number of methods that get sent with the request, but the most
 
 ## Sending and Receiving JSON
 
-Before we begin looking how to write a "CRUD server", we should talk a little about how we transfer data around. 
+Before we begin looking how to write a "CRUD server", we should talk a little about how we transfer data around.
+
