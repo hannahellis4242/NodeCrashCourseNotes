@@ -18,7 +18,7 @@ Also TypeScript is still used on client projects, so it's worth knowing just for
 
 We are once again going to write the hello world program, but this time in TypeScript.
 
-You might be asking me now, if valid JavaScript is valid TypeScript, haven't we already written the Hello World Program? You would be correct to say this, and you will see later there's no difference in the code at all. The aim of this section is getting used to using the TypeScript.
+You might be asking me now, if valid JavaScript is valid TypeScript, haven't we already written the Hello World Program? You would be correct to say this, and you will see later there's no difference in the code at all. The aim of this section is getting used to the way TypeScript creates your JavaScript code for you.
 
 Since Node is a JavaScript engine, it doesn't know how to run TypeScript natively. Our TypeScript code will need to be translated into JavaScript for node to run it. However to get the type safety checking that is TypeScript's hallmark, we need to compile. So which is it? Compile or translate?
 
