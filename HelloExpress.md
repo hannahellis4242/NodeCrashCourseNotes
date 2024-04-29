@@ -6,7 +6,7 @@ Now we have some of the basics of TypeScript down, we can begin to look at using
 
 Express is a web framework for Node. While node does have it's own built in way to deal with incoming http requests, it's better to let a framework take care of all the heavy lifting for you, freeing you up to worry about how your web application will work.
 
-You can find out more about Express on [npm](https://www.npmjs.com/package/express).
+You can find out more about Express on the npm express module [webpage](https://www.npmjs.com/package/express).
 
 ## Your first Express Application
 
